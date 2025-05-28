@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello, my name is York Li</h1>
+<h1 align="center">Hi! my name is York Li</h1>
 
 <p align="center">
   Information Sciences student at 
