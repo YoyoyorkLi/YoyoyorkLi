@@ -10,7 +10,7 @@
 ---
 
 ### About Me
-I'm an Information Sciences student exploring **machine learning**, **data science**, and their real-world applications
+I'm an Information Sciences student exploring all things **data science** and their real-world applications
 
 ---
 
